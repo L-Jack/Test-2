@@ -1,0 +1,26 @@
+/* CSS Document */
+html,body{
+	margin: 0;
+	padding: 0;
+	
+	background-image:url(../img/c001.jpg);
+	background-position:absolute;
+}
+.tupian{
+	margin-left:32%;
+	position:absolute;
+}
+.mz {
+	font-size: 25px;
+	text-align: center;
+	
+}
+.zf{
+	position: absolute;
+	margin-top: 10%;
+	margin-left:-100%;
+}
+/*
+.bk{
+	background: url(../img/cp005.jpg)
+}*/
